@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "7823408c-0818-40c3-8cff-4cd22f3167a6",
+      "name": "Vridhi",
+      "email": "vridhinahata2@gmail.com"
+    },
+    {
+      "id": "de19f02a-c8a6-40a9-836f-cf0551b983c3",
+      "name": "Khush",
+      "email": "khushnahta1@gmail.com"
+    },
+    {
+      "id": "c09e97fc-fcce-45f4-8f52-7c38b4d5a72d",
+      "name": "Deshana",
+      "email": "desh@gmail.com"
+    }
+  ]
+}
